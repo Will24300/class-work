@@ -1,0 +1,16 @@
+* {
+  padding: 0;
+  margin: 0;
+}
+
+section {
+  width: 50%;
+  text-align: center;
+  margin: auto;
+  margin-top: 20px;
+}
+p {
+  padding: 40px 10px;
+  border: 2px solid;
+  margin-top: 40px;
+}
